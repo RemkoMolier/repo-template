@@ -74,7 +74,7 @@ labels:
   - name: enhancement
     color: a2eeef
     default: true
-    description: New feature or request"
+    description: New feature or request
   - name: good first issue
     color: 7057ff
     default: true
