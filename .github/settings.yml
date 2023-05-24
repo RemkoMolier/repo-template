@@ -97,12 +97,12 @@ labels:
     description: This will not be worked on
 
 # Milestones: define milestones for Issues and Pull Requests
-milestones:
+#milestones:
   
 
 # Collaborators: give specific users access to this repository.
 # See https://docs.github.com/en/rest/reference/repos#add-a-repository-collaborator for available options
-collaborators:
+#collaborators:
   # - username: bkeepers
   #   permission: push
   # - username: hubot
@@ -117,7 +117,7 @@ collaborators:
   # * `triage` - Recommended for contributors who need to proactively manage issues and pull requests without write access.
 
 # See https://docs.github.com/en/rest/reference/teams#add-or-update-team-repository-permissions for available options
-teams:
+#teams:
   #- name: core
     # The permission to grant the team. Can be one of:
     # * `pull` - can pull, but not push to or administer this repository.
